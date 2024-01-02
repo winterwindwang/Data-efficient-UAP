@@ -1,6 +1,6 @@
 # Data-efficient-UAP
 
-The official implementation code of [**Improving Transferability of Universal Adversarial Perturbation with Feature Disruption**](http://doi-org-s.webvpn.zju.edu.cn:8001/10.1109/TIP.2023.3345136), which had been accepted in `IEEE Transaction on Image Processing`.
+The official implementation code of [**Improving Transferability of Universal Adversarial Perturbation with Feature Disruption**](http://doi-org-s.webvpn.zju.edu.cn:8001/10.1109/TIP.2023.3345136), which had been accepted in *IEEE Transaction on Image Processing*.
 
 We provide the necessary steps to reproduce or test our work.
 
@@ -30,10 +30,10 @@ During test stage, you need to assign the ImageNet validation path and the UAP f
 
 We provided our trained UAP files in:
 
-|Different in Training settings|Link|
-|Model|[here]()|
-|Number of trianing samples|[here]()|
-|Dataset|[here]()|
+| Different in Training settings | Link |
+| Model | [here]() |
+| Number of trianing samples | [here]() |
+| Dataset | [here]() |
 
 Run the following code to get the final result.
 
