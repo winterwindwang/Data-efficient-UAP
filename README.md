@@ -12,7 +12,7 @@ The official implementation code of [**Improving Transferability of Universal Ad
 First, you should prepare the dataset (i.e., ImageNet) as following folder structure:
 
 ## 1.1 ImageNet & Downstream dataset
-These two types of datasets should be arranged by each image placed in their category folder.
+These two types of datasets should be arranged by each image placed in their category folder. News: we release the constructed [ImageNet10k](https://github.com/winterwindwang/Data-efficient-UAP/blob/main/dataset/imagenet10k.txt), we train our UAP on 2000 images randomly sampled from this. 
 ```python
 -- ImageNet_folder
     -- train_folder
